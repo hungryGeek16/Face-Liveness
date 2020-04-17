@@ -1,5 +1,5 @@
 # Face-Liveness
-**Note: Install important libraries and dependencies from the link mentioned below**  
+**Note: Install important libraries and dependencies from the link mentioned below.**  
 1.Create two videos,one should have real faces(save it with the name real) and the other one should only contain a video playing in a phone(fake).
 {Remember:-both videos must be of same person)
 
