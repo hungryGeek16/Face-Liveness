@@ -1,5 +1,6 @@
 # Face-Liveness
-1.Create two videos,one should have real faces(save it with the name real) and the other oone should only contain a video playing in a phone(fake)
+**Note: Install important libraries and dependencies from the link mentioned below**  
+1.Create two videos,one should have real faces(save it with the name real) and the other one should only contain a video playing in a phone(fake).
 {Remember:-both videos must be of same person)
 
 
@@ -20,5 +21,5 @@ python train.py --dataset dataset --model liveness.model --le le.pickle
 
 5.python liveness_demo.py --model liveness.model --le le.pickle \
 	--detector face_detector
-
-Source:https://www.pyimagesearch.com/2019/03/11/liveness-detection-with-opencv/
+# Credits:
+https://www.pyimagesearch.com/2019/03/11/liveness-detection-with-opencv/
