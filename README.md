@@ -23,3 +23,5 @@ python train.py --dataset dataset --model liveness.model --le le.pickle
 	--detector face_detector
 # Credits:
 https://www.pyimagesearch.com/2019/03/11/liveness-detection-with-opencv/
+
+# Proper Documentation Coming Soon...
